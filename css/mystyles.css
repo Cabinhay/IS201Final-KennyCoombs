@@ -1,0 +1,24 @@
+.links{
+    text-align: center;
+    border-top: solid 1px blue;
+    height: 20px;
+    color: blue;
+    border: solid 1px blue;
+}
+
+.header {
+    height: 150px ;
+    margin-top: 20px ;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.common {
+    margin-right: 90px;
+    margin-left: 90px;
+    min-width:300px;}
+
+.tableau{
+    color: black;
+    height: 150px;
+}
